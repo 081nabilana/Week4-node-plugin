@@ -30,8 +30,13 @@ node index.js "Nabika Noor Azizah - F1D022081"
 📸 Screenshot Hasil Output
 Berikut adalah tangkapan layar dari hasil eksekusi script:
 <img width="752" height="703" alt="image" src="https://github.com/user-attachments/assets/d2350b3a-c33f-4439-bf7e-862602d164f0" />
+
 (foto 1. Proses instalasi)
+
 <img width="906" height="705" alt="image" src="https://github.com/user-attachments/assets/91daa379-660f-4d65-8370-4e6fadd3f584" />
+
 (foto 2. Hasil)
+
 <img width="1600" height="131" alt="image" src="https://github.com/user-attachments/assets/d1a552a6-541d-42b1-a200-5b2c414c9cd9" />
+
 (foto 3. Mengubah nama karakter menjadi yang diinginkan)
