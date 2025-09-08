@@ -1,4 +1,4 @@
-<img width="752" height="703" alt="image" src="https://github.com/user-attachments/assets/0e3a363e-04d8-4f63-a225-4eabf10e1135" />Tugas Minggu 4: Node.js Plugins Showcase
+Tugas Minggu 4: Node.js Plugins Showcase
 Ini adalah proyek untuk tugas Minggu ke-4 mata kuliah Pemrograman Website Lanjut, yang mendemonstrasikan penggunaan berbagai plugin Node.js untuk menciptakan output terminal yang kaya dan bergaya.
 
 ✨ Fitur Utama
